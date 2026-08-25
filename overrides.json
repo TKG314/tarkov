@@ -1,1 +1,3233 @@
-
+{
+ "schemaVersion": 1,
+ "updated": "2026-08-25",
+ "source": "https://github.com/TKG314/tarkov",
+ "note": "沸き内容・日本語名・カテゴリの手動データ。normalizedName をキーに json.tarkov.dev と突き合わせる。",
+ "keys": {
+  "dorm-room-314-marked-key": {
+   "en": "Dorm room 314 marked key",
+   "ja": "寮 314号室（マークルーム）",
+   "maps": [
+    "Customs"
+   ],
+   "cats": [
+    "MRK",
+    "VAL",
+    "KEY"
+   ],
+   "note": "カスタム唯一のマークルーム。レアケース・キーカード・高額バーター品。",
+   "verified": true
+  },
+  "reshalas-bunkhouse-key": {
+   "en": "Reshala's bunkhouse key",
+   "ja": "レシャーラの宿舎の鍵",
+   "maps": [
+    "Customs"
+   ],
+   "cats": [
+    "VAL",
+    "WPN"
+   ],
+   "note": "ボス関連の隠し部屋。",
+   "verified": false
+  },
+  "dorm-room-308-key": {
+   "en": "Dorm room 308 key",
+   "ja": "寮 308号室の鍵",
+   "maps": [
+    "Customs"
+   ],
+   "cats": [
+    "VAL",
+    "WPN"
+   ],
+   "note": "3階建て寮3F。武器箱・高額小物。",
+   "verified": false
+  },
+  "military-checkpoint-key": {
+   "en": "Military checkpoint key",
+   "ja": "軍事検問所の鍵",
+   "maps": [
+    "Customs"
+   ],
+   "cats": [
+    "WPN",
+    "GER"
+   ],
+   "note": "検問所内の武器・装備。",
+   "verified": false
+  },
+  "dorm-room-306-key": {
+   "en": "Dorm room 306 key",
+   "ja": "寮 306号室の鍵",
+   "maps": [
+    "Customs"
+   ],
+   "cats": [
+    "VAL",
+    "ELC"
+   ],
+   "note": "3階建て寮3F。セーフ・PC。",
+   "verified": false
+  },
+  "factory-emergency-exit-key": {
+   "en": "Factory emergency exit key",
+   "ja": "ファクトリー非常口の鍵（カスタム側）",
+   "maps": [
+    "Customs",
+    "Factory"
+   ],
+   "cats": [
+    "EXT",
+    "WPN"
+   ],
+   "note": "ZB-013 脱出の扉（Scav基地地下、要通電）。新ガソリンスタンド隣のクレーンヤード警備小屋 扉2枚（武器MOD＋ラボ武器庫の鍵の沸き場所）。",
+   "verified": true
+  },
+  "dorm-overseer-key": {
+   "en": "Dorm overseer key",
+   "ja": "寮 管理人室の鍵",
+   "maps": [
+    "Customs"
+   ],
+   "cats": [
+    "VAL",
+    "KEY"
+   ],
+   "note": "PVP Zone タスクで頻出。",
+   "verified": false
+  },
+  "company-directors-room-key": {
+   "en": "Company director's room key",
+   "ja": "会社役員室の鍵",
+   "maps": [
+    "Customs"
+   ],
+   "cats": [
+    "VAL",
+    "ELC"
+   ],
+   "note": "",
+   "verified": false
+  },
+  "gas-station-storage-room-key": {
+   "en": "Gas station storage room key",
+   "ja": "ガソリンスタンド倉庫の鍵",
+   "maps": [
+    "Customs"
+   ],
+   "cats": [
+    "WPN",
+    "TOL"
+   ],
+   "note": "武器箱・ツールボックス。",
+   "verified": true
+  },
+  "dorm-room-303-key": {
+   "en": "Dorm room 303 key",
+   "ja": "寮 303号室の鍵",
+   "maps": [
+    "Customs"
+   ],
+   "cats": [
+    "WPN",
+    "VAL"
+   ],
+   "note": "",
+   "verified": false
+  },
+  "usec-stash-key": {
+   "en": "USEC stash key",
+   "ja": "USEC隠し倉庫の鍵",
+   "maps": [
+    "Customs"
+   ],
+   "cats": [
+    "WPN",
+    "GER"
+   ],
+   "note": "",
+   "verified": false
+  },
+  "dorm-room-105-key": {
+   "en": "Dorm room 105 key",
+   "ja": "寮 105号室の鍵",
+   "maps": [
+    "Customs"
+   ],
+   "cats": [
+    "VAL",
+    "FOD"
+   ],
+   "note": "",
+   "verified": false
+  },
+  "dorm-room-114-key": {
+   "en": "Dorm room 114 key",
+   "ja": "寮 114号室の鍵",
+   "maps": [
+    "Customs"
+   ],
+   "cats": [
+    "MED",
+    "ELC"
+   ],
+   "note": "薬品・PC。Pharmacist の必須鍵。",
+   "verified": true
+  },
+  "dorm-room-220-key": {
+   "en": "Dorm room 220 key",
+   "ja": "寮 220号室の鍵",
+   "maps": [
+    "Customs"
+   ],
+   "cats": [
+    "VAL",
+    "ELC"
+   ],
+   "note": "以前のマークルーム。現在は通常部屋（セーフ・PC）。",
+   "verified": true
+  },
+  "dorm-room-118-key": {
+   "en": "Dorm room 118 key",
+   "ja": "寮 118号室の鍵",
+   "maps": [
+    "Customs"
+   ],
+   "cats": [
+    "WPN"
+   ],
+   "note": "武器箱が複数。",
+   "verified": true
+  },
+  "dorm-room-110-key": {
+   "en": "Dorm room 110 key",
+   "ja": "寮 110号室の鍵",
+   "maps": [
+    "Customs"
+   ],
+   "cats": [
+    "WPN",
+    "FOD"
+   ],
+   "note": "",
+   "verified": true
+  },
+  "dorm-room-204-key": {
+   "en": "Dorm room 204 key",
+   "ja": "寮 204号室の鍵",
+   "maps": [
+    "Customs"
+   ],
+   "cats": [
+    "TOL",
+    "VAL"
+   ],
+   "note": "",
+   "verified": false
+  },
+  "gas-station-office-key": {
+   "en": "Gas station office key",
+   "ja": "ガソリンスタンド事務所の鍵",
+   "maps": [
+    "Customs"
+   ],
+   "cats": [
+    "VAL",
+    "ELC"
+   ],
+   "note": "セーフ・PC。",
+   "verified": true
+  },
+  "dorm-guard-desk-key": {
+   "en": "Dorm guard desk key",
+   "ja": "寮 警備デスクの鍵",
+   "maps": [
+    "Customs"
+   ],
+   "cats": [
+    "VAL",
+    "KEY"
+   ],
+   "note": "",
+   "verified": false
+  },
+  "dorm-room-108-key": {
+   "en": "Dorm room 108 key",
+   "ja": "寮 108号室の鍵",
+   "maps": [
+    "Customs"
+   ],
+   "cats": [
+    "WPN",
+    "MED"
+   ],
+   "note": "武器箱・医療品。",
+   "verified": true
+  },
+  "portable-bunkhouse-key": {
+   "en": "Portable bunkhouse key",
+   "ja": "携帯型宿舎の鍵",
+   "maps": [
+    "Customs"
+   ],
+   "cats": [
+    "WPN"
+   ],
+   "note": "",
+   "verified": true
+  },
+  "dorm-room-214-key": {
+   "en": "Dorm room 214 key",
+   "ja": "寮 214号室の鍵",
+   "maps": [
+    "Customs"
+   ],
+   "cats": [
+    "VAL",
+    "ELC"
+   ],
+   "note": "",
+   "verified": true
+  },
+  "tarcone-directors-office-key": {
+   "en": "Tarcone Director's office key",
+   "ja": "Tarcone 役員室の鍵",
+   "maps": [
+    "Customs"
+   ],
+   "cats": [
+    "VAL",
+    "KEY"
+   ],
+   "note": "税関ビル。セーフ・書類。",
+   "verified": true
+  },
+  "dorm-room-104-key": {
+   "en": "Dorm room 104 key",
+   "ja": "寮 104号室の鍵",
+   "maps": [
+    "Customs"
+   ],
+   "cats": [
+    "FOD",
+    "TOL"
+   ],
+   "note": "",
+   "verified": false
+  },
+  "dorm-room-315-key": {
+   "en": "Dorm room 315 key",
+   "ja": "寮 315号室の鍵",
+   "maps": [
+    "Customs"
+   ],
+   "cats": [
+    "FOD",
+    "TOL"
+   ],
+   "note": "",
+   "verified": false
+  },
+  "dorm-room-103-key": {
+   "en": "Dorm room 103 key",
+   "ja": "寮 103号室の鍵",
+   "maps": [
+    "Customs"
+   ],
+   "cats": [
+    "FOD",
+    "TOL"
+   ],
+   "note": "",
+   "verified": false
+  },
+  "dorm-room-206-key": {
+   "en": "Dorm room 206 key",
+   "ja": "寮 206号室の鍵",
+   "maps": [
+    "Customs"
+   ],
+   "cats": [
+    "FOD",
+    "MED"
+   ],
+   "note": "Operation Aquarius の水差し。",
+   "verified": true
+  },
+  "dorm-room-218-key": {
+   "en": "Dorm room 218 key",
+   "ja": "寮 218号室の鍵",
+   "maps": [
+    "Customs"
+   ],
+   "cats": [
+    "MED",
+    "FOD"
+   ],
+   "note": "",
+   "verified": false
+  },
+  "dorm-room-203-key": {
+   "en": "Dorm room 203 key",
+   "ja": "寮 203号室の鍵",
+   "maps": [
+    "Customs"
+   ],
+   "cats": [
+    "VAL",
+    "ELC"
+   ],
+   "note": "セーフ・PC。安価で回収効率が良い定番。",
+   "verified": true
+  },
+  "portable-cabin-key": {
+   "en": "Portable cabin key",
+   "ja": "携帯型キャビンの鍵",
+   "maps": [
+    "Customs"
+   ],
+   "cats": [
+    "TOL",
+    "FOD"
+   ],
+   "note": "",
+   "verified": false
+  },
+  "trailer-park-portable-cabin-key": {
+   "en": "Trailer park portable cabin key",
+   "ja": "トレーラーパーク キャビンの鍵",
+   "maps": [
+    "Customs"
+   ],
+   "cats": [
+    "TOL",
+    "VAL"
+   ],
+   "note": "",
+   "verified": true
+  },
+  "machinery-key": {
+   "en": "Machinery key",
+   "ja": "機械の鍵",
+   "maps": [
+    "Customs"
+   ],
+   "cats": [
+    "KEY"
+   ],
+   "note": "建設現場のタンクローリー運転席ドア専用。3階建て寮205号室の青ジャケットに毎レイド確定沸き。Background Check 実行中以外は中身なし。脱出とは無関係。",
+   "verified": true
+  },
+  "unknown-key": {
+   "en": "Unknown key",
+   "ja": "未知の鍵",
+   "maps": [
+    "Customs"
+   ],
+   "cats": [
+    "KEY"
+   ],
+   "note": "The Extortionist 用。",
+   "verified": true
+  },
+  "terragroup-storage-room-keycard": {
+   "en": "TerraGroup storage room keycard",
+   "ja": "TerraGroup 保管室キーカード",
+   "maps": [
+    "Factory"
+   ],
+   "cats": [
+    "VAL",
+    "KEY",
+    "WPN"
+   ],
+   "note": "ファクトリー最高額。極めてレアな沸き。",
+   "verified": true
+  },
+  "zb-014-key": {
+   "en": "ZB-014 key",
+   "ja": "ZB-014 の鍵",
+   "maps": [
+    "Woods"
+   ],
+   "cats": [
+    "WPN",
+    "EXT"
+   ],
+   "note": "ウッズ西のバンカー扉。中身は武器箱(5x5)が1個のみ。鍵本体はカスタムの3階建て寮220号室の机に沸く。緑フレアが出ている時だけ脱出可。",
+   "verified": true
+  },
+  "old-house-room-key": {
+   "en": "Old house room key",
+   "ja": "旧家の部屋の鍵",
+   "maps": [
+    "Woods"
+   ],
+   "cats": [
+    "VAL",
+    "ELC"
+   ],
+   "note": "",
+   "verified": false
+  },
+  "shturmans-stash-key": {
+   "en": "Shturman's stash key",
+   "ja": "シュトゥルマンの隠し倉庫の鍵",
+   "maps": [
+    "Woods"
+   ],
+   "cats": [
+    "VAL",
+    "WPN"
+   ],
+   "note": "ボス関連の隠し倉庫。",
+   "verified": true
+  },
+  "yotota-car-key": {
+   "en": "Yotota car key",
+   "ja": "Yotota 車の鍵",
+   "maps": [
+    "Woods"
+   ],
+   "cats": [
+    "VAL"
+   ],
+   "note": "車のトランク。",
+   "verified": false
+  },
+  "shatuns-hideout-key": {
+   "en": "Shatun's hideout key",
+   "ja": "シャトゥンの隠れ家の鍵",
+   "maps": [
+    "Woods"
+   ],
+   "cats": [
+    "VAL",
+    "WPN"
+   ],
+   "note": "",
+   "verified": false
+  },
+  "old-house-toilet-key": {
+   "en": "Old house toilet key",
+   "ja": "旧家のトイレの鍵",
+   "maps": [
+    "Woods"
+   ],
+   "cats": [
+    "FOD",
+    "VAL"
+   ],
+   "note": "",
+   "verified": false
+  },
+  "health-resort-west-wing-room-218-key": {
+   "en": "Health Resort west wing room 218 key",
+   "ja": "保養所 西棟 218号室",
+   "maps": [
+    "Shoreline"
+   ],
+   "cats": [
+    "VAL",
+    "ELC"
+   ],
+   "note": "",
+   "verified": false
+  },
+  "health-resort-west-wing-room-222-key": {
+   "en": "Health Resort west wing room 222 key",
+   "ja": "保養所 西棟 222号室",
+   "maps": [
+    "Shoreline"
+   ],
+   "cats": [
+    "VAL",
+    "ELC"
+   ],
+   "note": "",
+   "verified": false
+  },
+  "health-resort-west-wing-room-205-key": {
+   "en": "Health Resort west wing room 205 key",
+   "ja": "保養所 西棟 205号室",
+   "maps": [
+    "Shoreline"
+   ],
+   "cats": [
+    "VAL"
+   ],
+   "note": "",
+   "verified": false
+  },
+  "health-resort-west-wing-room-306-key": {
+   "en": "Health Resort west wing room 306 key",
+   "ja": "保養所 西棟 306号室",
+   "maps": [
+    "Shoreline"
+   ],
+   "cats": [
+    "VAL",
+    "MED"
+   ],
+   "note": "",
+   "verified": true
+  },
+  "health-resort-west-wing-room-216-key": {
+   "en": "Health Resort west wing room 216 key",
+   "ja": "保養所 西棟 216号室",
+   "maps": [
+    "Shoreline"
+   ],
+   "cats": [
+    "VAL",
+    "ELC"
+   ],
+   "note": "",
+   "verified": false
+  },
+  "cottage-safe-key": {
+   "en": "Cottage safe key",
+   "ja": "コテージ 金庫の鍵",
+   "maps": [
+    "Shoreline"
+   ],
+   "cats": [
+    "VAL"
+   ],
+   "note": "セーフ専用。",
+   "verified": true
+  },
+  "health-resort-west-wing-room-221-key": {
+   "en": "Health Resort west wing room 221 key",
+   "ja": "保養所 西棟 221号室",
+   "maps": [
+    "Shoreline"
+   ],
+   "cats": [
+    "VAL"
+   ],
+   "note": "",
+   "verified": false
+  },
+  "health-resort-west-wing-room-301-key": {
+   "en": "Health Resort west wing room 301 key",
+   "ja": "保養所 西棟 301号室",
+   "maps": [
+    "Shoreline"
+   ],
+   "cats": [
+    "VAL",
+    "ELC"
+   ],
+   "note": "",
+   "verified": false
+  },
+  "health-resort-east-wing-room-222-key": {
+   "en": "Health Resort east wing room 222 key",
+   "ja": "保養所 東棟 222号室",
+   "maps": [
+    "Shoreline"
+   ],
+   "cats": [
+    "VAL"
+   ],
+   "note": "",
+   "verified": false
+  },
+  "health-resort-west-wing-room-220-key": {
+   "en": "Health Resort west wing room 220 key",
+   "ja": "保養所 西棟 220号室",
+   "maps": [
+    "Shoreline"
+   ],
+   "cats": [
+    "ELC",
+    "TOL"
+   ],
+   "note": "",
+   "verified": true
+  },
+  "health-resort-west-wing-room-219-key": {
+   "en": "Health Resort west wing room 219 key",
+   "ja": "保養所 西棟 219号室",
+   "maps": [
+    "Shoreline"
+   ],
+   "cats": [
+    "ELC",
+    "TOL"
+   ],
+   "note": "",
+   "verified": true
+  },
+  "health-resort-east-wing-room-328-key": {
+   "en": "Health Resort east wing room 328 key",
+   "ja": "保養所 東棟 328号室",
+   "maps": [
+    "Shoreline"
+   ],
+   "cats": [
+    "VAL",
+    "WPN"
+   ],
+   "note": "",
+   "verified": true
+  },
+  "health-resort-universal-utility-room-key": {
+   "en": "Health Resort universal utility room key",
+   "ja": "保養所 汎用設備室の鍵",
+   "maps": [
+    "Shoreline"
+   ],
+   "cats": [
+    "TOL",
+    "EXT"
+   ],
+   "note": "複数の設備室に共通。",
+   "verified": true
+  },
+  "health-resort-office-key-with-a-blue-tape": {
+   "en": "Health Resort office key with a blue tape",
+   "ja": "保養所 青テープ付き事務室の鍵",
+   "maps": [
+    "Shoreline"
+   ],
+   "cats": [
+    "MED",
+    "KEY"
+   ],
+   "note": "",
+   "verified": true
+  },
+  "health-resort-east-wing-room-226-key": {
+   "en": "Health Resort east wing room 226 key",
+   "ja": "保養所 東棟 226号室",
+   "maps": [
+    "Shoreline"
+   ],
+   "cats": [
+    "VAL"
+   ],
+   "note": "",
+   "verified": false
+  },
+  "health-resort-east-wing-room-205-key": {
+   "en": "Health Resort east wing room 205 key",
+   "ja": "保養所 東棟 205号室",
+   "maps": [
+    "Shoreline"
+   ],
+   "cats": [
+    "VAL"
+   ],
+   "note": "",
+   "verified": false
+  },
+  "cottage-back-door-key": {
+   "en": "Cottage back door key",
+   "ja": "コテージ 裏口の鍵",
+   "maps": [
+    "Shoreline"
+   ],
+   "cats": [
+    "EXT",
+    "VAL"
+   ],
+   "note": "",
+   "verified": true
+  },
+  "health-resort-west-wing-room-303-key": {
+   "en": "Health Resort west wing room 303 key",
+   "ja": "保養所 西棟 303号室",
+   "maps": [
+    "Shoreline"
+   ],
+   "cats": [
+    "VAL"
+   ],
+   "note": "",
+   "verified": false
+  },
+  "health-resort-west-wing-room-203-key": {
+   "en": "Health Resort west wing room 203 key",
+   "ja": "保養所 西棟 203号室",
+   "maps": [
+    "Shoreline"
+   ],
+   "cats": [
+    "VAL"
+   ],
+   "note": "",
+   "verified": false
+  },
+  "health-resort-west-wing-office-room-104-key": {
+   "en": "Health Resort west wing office room 104 key",
+   "ja": "保養所 西棟 事務室104",
+   "maps": [
+    "Shoreline"
+   ],
+   "cats": [
+    "ELC",
+    "KEY"
+   ],
+   "note": "",
+   "verified": false
+  },
+  "health-resort-east-wing-room-308-key": {
+   "en": "Health Resort east wing room 308 key",
+   "ja": "保養所 東棟 308号室",
+   "maps": [
+    "Shoreline"
+   ],
+   "cats": [
+    "VAL",
+    "KEY"
+   ],
+   "note": "",
+   "verified": true
+  },
+  "health-resort-east-wing-room-206-key": {
+   "en": "Health Resort east wing room 206 key",
+   "ja": "保養所 東棟 206号室",
+   "maps": [
+    "Shoreline"
+   ],
+   "cats": [
+    "VAL"
+   ],
+   "note": "",
+   "verified": false
+  },
+  "health-resort-east-wing-room-310-key": {
+   "en": "Health Resort east wing room 310 key",
+   "ja": "保養所 東棟 310号室",
+   "maps": [
+    "Shoreline"
+   ],
+   "cats": [
+    "VAL"
+   ],
+   "note": "",
+   "verified": false
+  },
+  "health-resort-east-wing-room-213-key": {
+   "en": "Health Resort east wing room 213 key",
+   "ja": "保養所 東棟 213号室",
+   "maps": [
+    "Shoreline"
+   ],
+   "cats": [
+    "VAL"
+   ],
+   "note": "",
+   "verified": false
+  },
+  "health-resort-east-wing-office-room-108-key": {
+   "en": "Health Resort east wing office room 108 key",
+   "ja": "保養所 東棟 事務室108",
+   "maps": [
+    "Shoreline"
+   ],
+   "cats": [
+    "ELC",
+    "KEY"
+   ],
+   "note": "",
+   "verified": false
+  },
+  "health-resort-management-warehouse-safe-key": {
+   "en": "Health Resort management warehouse safe key",
+   "ja": "保養所 管理倉庫 金庫の鍵",
+   "maps": [
+    "Shoreline"
+   ],
+   "cats": [
+    "VAL"
+   ],
+   "note": "",
+   "verified": true
+  },
+  "health-resort-east-wing-room-216-key": {
+   "en": "Health Resort east wing room 216 key",
+   "ja": "保養所 東棟 216号室",
+   "maps": [
+    "Shoreline"
+   ],
+   "cats": [
+    "VAL"
+   ],
+   "note": "",
+   "verified": false
+  },
+  "health-resort-east-wing-office-room-107-key": {
+   "en": "Health Resort east wing office room 107 key",
+   "ja": "保養所 東棟 事務室107",
+   "maps": [
+    "Shoreline"
+   ],
+   "cats": [
+    "ELC",
+    "KEY"
+   ],
+   "note": "",
+   "verified": false
+  },
+  "health-resort-east-wing-room-313-key": {
+   "en": "Health Resort east wing room 313 key",
+   "ja": "保養所 東棟 313号室",
+   "maps": [
+    "Shoreline"
+   ],
+   "cats": [
+    "VAL"
+   ],
+   "note": "",
+   "verified": false
+  },
+  "health-resort-west-wing-office-room-112-key": {
+   "en": "Health Resort west wing office room 112 key",
+   "ja": "保養所 西棟 事務室112",
+   "maps": [
+    "Shoreline"
+   ],
+   "cats": [
+    "MED",
+    "ELC"
+   ],
+   "note": "",
+   "verified": true
+  },
+  "health-resort-management-office-safe-key": {
+   "en": "Health Resort management office safe key",
+   "ja": "保養所 管理事務所 金庫の鍵",
+   "maps": [
+    "Shoreline"
+   ],
+   "cats": [
+    "VAL"
+   ],
+   "note": "",
+   "verified": true
+  },
+  "health-resort-east-wing-room-306-key": {
+   "en": "Health Resort east wing room 306 key",
+   "ja": "保養所 東棟 306号室",
+   "maps": [
+    "Shoreline"
+   ],
+   "cats": [
+    "VAL",
+    "KEY"
+   ],
+   "note": "",
+   "verified": true
+  },
+  "health-resort-east-wing-room-314-key": {
+   "en": "Health Resort east wing room 314 key",
+   "ja": "保養所 東棟 314号室",
+   "maps": [
+    "Shoreline"
+   ],
+   "cats": [
+    "VAL"
+   ],
+   "note": "",
+   "verified": false
+  },
+  "health-resort-west-wing-room-321-safe-key": {
+   "en": "Health Resort west wing room 321 safe key",
+   "ja": "保養所 西棟 321 金庫の鍵",
+   "maps": [
+    "Shoreline"
+   ],
+   "cats": [
+    "VAL"
+   ],
+   "note": "",
+   "verified": true
+  },
+  "health-resort-west-wing-room-323-key": {
+   "en": "Health Resort west wing room 323 key",
+   "ja": "保養所 西棟 323号室",
+   "maps": [
+    "Shoreline"
+   ],
+   "cats": [
+    "VAL"
+   ],
+   "note": "",
+   "verified": false
+  },
+  "health-resort-east-wing-room-322-key": {
+   "en": "Health Resort east wing room 322 key",
+   "ja": "保養所 東棟 322号室",
+   "maps": [
+    "Shoreline"
+   ],
+   "cats": [
+    "VAL"
+   ],
+   "note": "",
+   "verified": false
+  },
+  "health-resort-east-wing-room-316-key": {
+   "en": "Health Resort east wing room 316 key",
+   "ja": "保養所 東棟 316号室",
+   "maps": [
+    "Shoreline"
+   ],
+   "cats": [
+    "VAL"
+   ],
+   "note": "",
+   "verified": false
+  },
+  "health-resort-west-wing-room-207-key": {
+   "en": "Health Resort west wing room 207 key",
+   "ja": "保養所 西棟 207号室",
+   "maps": [
+    "Shoreline"
+   ],
+   "cats": [
+    "VAL"
+   ],
+   "note": "",
+   "verified": false
+  },
+  "smw-car-key": {
+   "en": "SMW car key",
+   "ja": "SMW 車の鍵",
+   "maps": [
+    "Shoreline"
+   ],
+   "cats": [
+    "VAL"
+   ],
+   "note": "車のトランク。",
+   "verified": false
+  },
+  "health-resort-east-wing-room-209-key": {
+   "en": "Health Resort east wing room 209 key",
+   "ja": "保養所 東棟 209号室",
+   "maps": [
+    "Shoreline"
+   ],
+   "cats": [
+    "VAL"
+   ],
+   "note": "",
+   "verified": false
+  },
+  "health-resort-west-wing-room-309-key": {
+   "en": "Health Resort west wing room 309 key",
+   "ja": "保養所 西棟 309号室",
+   "maps": [
+    "Shoreline"
+   ],
+   "cats": [
+    "VAL"
+   ],
+   "note": "",
+   "verified": false
+  },
+  "health-resort-west-wing-room-325-key": {
+   "en": "Health Resort west wing room 325 key",
+   "ja": "保養所 西棟 325号室",
+   "maps": [
+    "Shoreline"
+   ],
+   "cats": [
+    "VAL"
+   ],
+   "note": "",
+   "verified": false
+  },
+  "hep-station-storage-room-key": {
+   "en": "HEP station storage room key",
+   "ja": "HEP発電所 倉庫の鍵",
+   "maps": [
+    "Shoreline"
+   ],
+   "cats": [
+    "TOL",
+    "ELC"
+   ],
+   "note": "",
+   "verified": false
+  },
+  "gas-station-safe-key": {
+   "en": "Gas station safe key",
+   "ja": "ガソリンスタンド 金庫の鍵",
+   "maps": [
+    "Shoreline"
+   ],
+   "cats": [
+    "VAL"
+   ],
+   "note": "",
+   "verified": true
+  },
+  "weather-station-safe-key": {
+   "en": "Weather station safe key",
+   "ja": "気象観測所 金庫の鍵",
+   "maps": [
+    "Shoreline"
+   ],
+   "cats": [
+    "VAL"
+   ],
+   "note": "",
+   "verified": true
+  },
+  "vorons-hideout-key": {
+   "en": "Voron's hideout key",
+   "ja": "ヴォロンの隠れ家の鍵",
+   "maps": [
+    "Shoreline"
+   ],
+   "cats": [
+    "VAL",
+    "WPN"
+   ],
+   "note": "",
+   "verified": false
+  },
+  "knossos-llc-facility-key": {
+   "en": "Knossos LLC facility key",
+   "ja": "Knossos LLC 施設の鍵",
+   "maps": [
+    "Shoreline"
+   ],
+   "cats": [
+    "KEY",
+    "ELC"
+   ],
+   "note": "",
+   "verified": false
+  },
+  "goshan-cash-register-key": {
+   "en": "Goshan cash register key",
+   "ja": "Goshan レジの鍵",
+   "maps": [
+    "Interchange"
+   ],
+   "cats": [
+    "VAL"
+   ],
+   "note": "現金束。軽量高単価の定番。",
+   "verified": true
+  },
+  "idea-cash-register-key": {
+   "en": "IDEA cash register key",
+   "ja": "IDEA レジの鍵",
+   "maps": [
+    "Interchange"
+   ],
+   "cats": [
+    "VAL"
+   ],
+   "note": "現金束。",
+   "verified": true
+  },
+  "kiba-arms-outer-door-key": {
+   "en": "Kiba Arms outer door key",
+   "ja": "KIBA Arms 外扉の鍵",
+   "maps": [
+    "Interchange"
+   ],
+   "cats": [
+    "WPN",
+    "GER"
+   ],
+   "note": "KIBA突入の1本目。電源＋内扉とセット。",
+   "verified": true
+  },
+  "oli-cash-register-key": {
+   "en": "OLI cash register key",
+   "ja": "OLI レジの鍵",
+   "maps": [
+    "Interchange"
+   ],
+   "cats": [
+    "VAL"
+   ],
+   "note": "現金束。",
+   "verified": true
+  },
+  "ultra-medical-storage-key": {
+   "en": "ULTRA medical storage key",
+   "ja": "ULTRA 医療品倉庫の鍵",
+   "maps": [
+    "Interchange"
+   ],
+   "cats": [
+    "MED",
+    "VAL"
+   ],
+   "note": "LEDX・眼底鏡など高額医療品。",
+   "verified": true
+  },
+  "necruspharm-pharmacy-key": {
+   "en": "NecrusPharm pharmacy key",
+   "ja": "NecrusPharm 薬局の鍵",
+   "maps": [
+    "Interchange"
+   ],
+   "cats": [
+    "MED"
+   ],
+   "note": "医療品全般。",
+   "verified": true
+  },
+  "kiba-arms-inner-grate-door-key": {
+   "en": "Kiba Arms inner grate door key",
+   "ja": "KIBA Arms 内側格子扉の鍵",
+   "maps": [
+    "Interchange"
+   ],
+   "cats": [
+    "WPN",
+    "GER"
+   ],
+   "note": "レア武器・高級ヘルメット・光学。",
+   "verified": true
+  },
+  "oli-logistics-department-office-key": {
+   "en": "OLI logistics department office key",
+   "ja": "OLI 物流部事務所の鍵",
+   "maps": [
+    "Interchange"
+   ],
+   "cats": [
+    "TOL",
+    "ELC"
+   ],
+   "note": "",
+   "verified": true
+  },
+  "emercom-medical-unit-key": {
+   "en": "EMERCOM medical unit key",
+   "ja": "EMERCOM 医療ユニットの鍵",
+   "maps": [
+    "Interchange"
+   ],
+   "cats": [
+    "MED"
+   ],
+   "note": "医療品。",
+   "verified": true
+  },
+  "oli-administration-office-key": {
+   "en": "OLI administration office key",
+   "ja": "OLI 管理事務所の鍵",
+   "maps": [
+    "Interchange"
+   ],
+   "cats": [
+    "VAL",
+    "ELC"
+   ],
+   "note": "",
+   "verified": false
+  },
+  "power-substation-utility-cabin-key": {
+   "en": "Power substation utility cabin key",
+   "ja": "変電所 設備小屋の鍵",
+   "maps": [
+    "Interchange"
+   ],
+   "cats": [
+    "TOL",
+    "EXT"
+   ],
+   "note": "",
+   "verified": false
+  },
+  "oli-outlet-utility-room-key": {
+   "en": "OLI outlet utility room key",
+   "ja": "OLI アウトレット 設備室の鍵",
+   "maps": [
+    "Interchange"
+   ],
+   "cats": [
+    "TOL"
+   ],
+   "note": "",
+   "verified": false
+  },
+  "grumpys-hideout-key": {
+   "en": "Grumpy's hideout key",
+   "ja": "グランピーの隠れ家の鍵",
+   "maps": [
+    "Interchange"
+   ],
+   "cats": [
+    "VAL"
+   ],
+   "note": "",
+   "verified": false
+  },
+  "station-14-4-kord-arshavin-k-pass-restored": {
+   "en": "Station 14-4 KORD Arshavin K. pass (Restored)",
+   "ja": "第14-4基地 KORD アルシャヴィン通行証（復元）",
+   "maps": [
+    "Interchange"
+   ],
+   "cats": [
+    "KEY"
+   ],
+   "note": "シーズン Kord Breach 関連アイテム。",
+   "verified": false
+  },
+  "rb-pkpm-marked-key": {
+   "en": "RB-PKPM marked key",
+   "ja": "RB-PKPM（マークルーム）",
+   "maps": [
+    "Reserve"
+   ],
+   "cats": [
+    "MRK",
+    "VAL",
+    "KEY"
+   ],
+   "note": "リザーブのマークルーム。ゲーム全体でも最高額帯。",
+   "verified": true
+  },
+  "rb-bk-marked-key": {
+   "en": "RB-BK marked key",
+   "ja": "RB-BK（マークルーム）",
+   "maps": [
+    "Reserve"
+   ],
+   "cats": [
+    "MRK",
+    "VAL",
+    "KEY"
+   ],
+   "note": "リザーブのマークルーム。",
+   "verified": true
+  },
+  "rb-vo-marked-key": {
+   "en": "RB-VO marked key",
+   "ja": "RB-VO（マークルーム）",
+   "maps": [
+    "Reserve"
+   ],
+   "cats": [
+    "MRK",
+    "VAL",
+    "WPN"
+   ],
+   "note": "リザーブのマークルーム。武器箱も併設。",
+   "verified": true
+  },
+  "rb-pkpts-key": {
+   "en": "RB-PKPTS key",
+   "ja": "RB-PKPTS の鍵",
+   "maps": [
+    "Reserve"
+   ],
+   "cats": [
+    "WPN",
+    "GER"
+   ],
+   "note": "",
+   "verified": false
+  },
+  "rb-orb1-key": {
+   "en": "RB-ORB1 key",
+   "ja": "RB-ORB1 の鍵",
+   "maps": [
+    "Reserve"
+   ],
+   "cats": [
+    "VAL",
+    "ELC"
+   ],
+   "note": "ホテル棟。セーフ・PC。",
+   "verified": true
+  },
+  "rb-rlsa-key": {
+   "en": "RB-RLSA key",
+   "ja": "RB-RLSA の鍵",
+   "maps": [
+    "Reserve"
+   ],
+   "cats": [
+    "ELC",
+    "TOL"
+   ],
+   "note": "",
+   "verified": false
+  },
+  "rb-kprl-key": {
+   "en": "RB-KPRL key",
+   "ja": "RB-KPRL の鍵",
+   "maps": [
+    "Reserve"
+   ],
+   "cats": [
+    "VAL",
+    "TOL"
+   ],
+   "note": "",
+   "verified": false
+  },
+  "rb-smp-key": {
+   "en": "RB-SMP key",
+   "ja": "RB-SMP の鍵",
+   "maps": [
+    "Reserve"
+   ],
+   "cats": [
+    "MED"
+   ],
+   "note": "医療品。",
+   "verified": true
+  },
+  "rb-tb-key": {
+   "en": "RB-TB key",
+   "ja": "RB-TB の鍵",
+   "maps": [
+    "Reserve"
+   ],
+   "cats": [
+    "MED",
+    "VAL"
+   ],
+   "note": "",
+   "verified": false
+  },
+  "rb-orb2-key": {
+   "en": "RB-ORB2 key",
+   "ja": "RB-ORB2 の鍵",
+   "maps": [
+    "Reserve"
+   ],
+   "cats": [
+    "VAL",
+    "ELC"
+   ],
+   "note": "ホテル棟。",
+   "verified": true
+  },
+  "rb-ksm-key": {
+   "en": "RB-KSM key",
+   "ja": "RB-KSM の鍵",
+   "maps": [
+    "Reserve"
+   ],
+   "cats": [
+    "MED"
+   ],
+   "note": "医療品。",
+   "verified": true
+  },
+  "rb-korl-key": {
+   "en": "RB-KORL key",
+   "ja": "RB-KORL の鍵",
+   "maps": [
+    "Reserve"
+   ],
+   "cats": [
+    "VAL",
+    "TOL"
+   ],
+   "note": "",
+   "verified": false
+  },
+  "rb-orb3-key": {
+   "en": "RB-ORB3 key",
+   "ja": "RB-ORB3 の鍵",
+   "maps": [
+    "Reserve"
+   ],
+   "cats": [
+    "VAL",
+    "ELC"
+   ],
+   "note": "ホテル棟。",
+   "verified": true
+  },
+  "rb-st-key": {
+   "en": "RB-ST key",
+   "ja": "RB-ST の鍵",
+   "maps": [
+    "Reserve"
+   ],
+   "cats": [
+    "VAL",
+    "TOL"
+   ],
+   "note": "タスク3種で要求される。",
+   "verified": true
+  },
+  "rb-psp2-key": {
+   "en": "RB-PSP2 key",
+   "ja": "RB-PSP2 の鍵",
+   "maps": [
+    "Reserve"
+   ],
+   "cats": [
+    "WPN",
+    "MED"
+   ],
+   "note": "",
+   "verified": false
+  },
+  "rb-mp22-key": {
+   "en": "RB-MP22 key",
+   "ja": "RB-MP22 の鍵",
+   "maps": [
+    "Reserve"
+   ],
+   "cats": [
+    "WPN",
+    "TOL"
+   ],
+   "note": "",
+   "verified": false
+  },
+  "rb-mp21-key": {
+   "en": "RB-MP21 key",
+   "ja": "RB-MP21 の鍵",
+   "maps": [
+    "Reserve"
+   ],
+   "cats": [
+    "WPN",
+    "TOL"
+   ],
+   "note": "",
+   "verified": false
+  },
+  "rb-am-key": {
+   "en": "RB-AM key",
+   "ja": "RB-AM の鍵",
+   "maps": [
+    "Reserve"
+   ],
+   "cats": [
+    "WPN"
+   ],
+   "note": "",
+   "verified": false
+  },
+  "rb-op-key": {
+   "en": "RB-OP key",
+   "ja": "RB-OP の鍵",
+   "maps": [
+    "Reserve"
+   ],
+   "cats": [
+    "EXT",
+    "TOL"
+   ],
+   "note": "バンカー通路。",
+   "verified": false
+  },
+  "rb-ob-key": {
+   "en": "RB-OB key",
+   "ja": "RB-OB の鍵",
+   "maps": [
+    "Reserve"
+   ],
+   "cats": [
+    "EXT",
+    "TOL"
+   ],
+   "note": "バンカー通路。",
+   "verified": true
+  },
+  "rb-psv1-key": {
+   "en": "RB-PSV1 key",
+   "ja": "RB-PSV1 の鍵",
+   "maps": [
+    "Reserve"
+   ],
+   "cats": [
+    "WPN",
+    "GER"
+   ],
+   "note": "",
+   "verified": false
+  },
+  "rb-rs-key": {
+   "en": "RB-RS key",
+   "ja": "RB-RS の鍵",
+   "maps": [
+    "Reserve"
+   ],
+   "cats": [
+    "TOL",
+    "ELC"
+   ],
+   "note": "",
+   "verified": false
+  },
+  "rb-psp1-key": {
+   "en": "RB-PSP1 key",
+   "ja": "RB-PSP1 の鍵",
+   "maps": [
+    "Reserve"
+   ],
+   "cats": [
+    "WPN",
+    "MED"
+   ],
+   "note": "",
+   "verified": false
+  },
+  "rb-psv2-key": {
+   "en": "RB-PSV2 key",
+   "ja": "RB-PSV2 の鍵",
+   "maps": [
+    "Reserve"
+   ],
+   "cats": [
+    "WPN",
+    "GER"
+   ],
+   "note": "",
+   "verified": false
+  },
+  "rb-ak-key": {
+   "en": "RB-AK key",
+   "ja": "RB-AK の鍵",
+   "maps": [
+    "Reserve"
+   ],
+   "cats": [
+    "WPN"
+   ],
+   "note": "武器箱。",
+   "verified": true
+  },
+  "rb-gn-key": {
+   "en": "RB-GN key",
+   "ja": "RB-GN の鍵",
+   "maps": [
+    "Reserve"
+   ],
+   "cats": [
+    "EXT",
+    "TOL"
+   ],
+   "note": "",
+   "verified": false
+  },
+  "rb-mp11-key": {
+   "en": "RB-MP11 key",
+   "ja": "RB-MP11 の鍵",
+   "maps": [
+    "Reserve"
+   ],
+   "cats": [
+    "WPN",
+    "TOL"
+   ],
+   "note": "",
+   "verified": false
+  },
+  "rb-mp12-key": {
+   "en": "RB-MP12 key",
+   "ja": "RB-MP12 の鍵",
+   "maps": [
+    "Reserve"
+   ],
+   "cats": [
+    "WPN",
+    "TOL"
+   ],
+   "note": "",
+   "verified": false
+  },
+  "rb-mp13-key": {
+   "en": "RB-MP13 key",
+   "ja": "RB-MP13 の鍵",
+   "maps": [
+    "Reserve"
+   ],
+   "cats": [
+    "WPN",
+    "TOL"
+   ],
+   "note": "",
+   "verified": false
+  },
+  "rb-ao-key": {
+   "en": "RB-AO key",
+   "ja": "RB-AO の鍵",
+   "maps": [
+    "Reserve"
+   ],
+   "cats": [
+    "TOL",
+    "FOD"
+   ],
+   "note": "",
+   "verified": false
+  },
+  "rb-rh-key": {
+   "en": "RB-RH key",
+   "ja": "RB-RH の鍵",
+   "maps": [
+    "Reserve"
+   ],
+   "cats": [
+    "TOL",
+    "FOD"
+   ],
+   "note": "",
+   "verified": false
+  },
+  "shared-bedroom-marked-key": {
+   "en": "Shared bedroom marked key",
+   "ja": "共用寝室の鍵（マークルーム）",
+   "maps": [
+    "Lighthouse"
+   ],
+   "cats": [
+    "MRK",
+    "VAL",
+    "KEY"
+   ],
+   "note": "ライトハウス島のマークルーム。Lightkeeper 関連でも使う。",
+   "verified": true
+  },
+  "radar-station-commandant-room-key": {
+   "en": "Radar station commandant room key",
+   "ja": "レーダー基地 司令室の鍵",
+   "maps": [
+    "Lighthouse"
+   ],
+   "cats": [
+    "KEY",
+    "ELC"
+   ],
+   "note": "",
+   "verified": true
+  },
+  "usec-cottage-first-safe-key": {
+   "en": "USEC cottage first safe key",
+   "ja": "USEC コテージ 金庫1の鍵",
+   "maps": [
+    "Lighthouse"
+   ],
+   "cats": [
+    "VAL"
+   ],
+   "note": "セーフ専用。",
+   "verified": true
+  },
+  "usec-cottage-second-safe-key": {
+   "en": "USEC cottage second safe key",
+   "ja": "USEC コテージ 金庫2の鍵",
+   "maps": [
+    "Lighthouse"
+   ],
+   "cats": [
+    "VAL"
+   ],
+   "note": "セーフ専用。",
+   "verified": true
+  },
+  "rogue-usec-barrack-key": {
+   "en": "Rogue USEC barrack key",
+   "ja": "Rogue USEC 兵舎の鍵",
+   "maps": [
+    "Lighthouse"
+   ],
+   "cats": [
+    "WPN",
+    "GER"
+   ],
+   "note": "",
+   "verified": false
+  },
+  "rogue-usec-workshop-key": {
+   "en": "Rogue USEC workshop key",
+   "ja": "Rogue USEC 作業場の鍵",
+   "maps": [
+    "Lighthouse"
+   ],
+   "cats": [
+    "TOL",
+    "WPN"
+   ],
+   "note": "",
+   "verified": false
+  },
+  "operating-room-key": {
+   "en": "Operating room key",
+   "ja": "手術室の鍵",
+   "maps": [
+    "Lighthouse"
+   ],
+   "cats": [
+    "MED"
+   ],
+   "note": "医療品。",
+   "verified": true
+  },
+  "rogue-usec-stash-key": {
+   "en": "Rogue USEC stash key",
+   "ja": "Rogue USEC 隠し倉庫の鍵",
+   "maps": [
+    "Lighthouse"
+   ],
+   "cats": [
+    "WPN",
+    "GER"
+   ],
+   "note": "",
+   "verified": false
+  },
+  "hillside-house-key": {
+   "en": "Hillside house key",
+   "ja": "丘の家の鍵",
+   "maps": [
+    "Lighthouse"
+   ],
+   "cats": [
+    "VAL",
+    "FOD"
+   ],
+   "note": "",
+   "verified": false
+  },
+  "water-treatment-plant-storage-room-key": {
+   "en": "Water treatment plant storage room key",
+   "ja": "水処理施設 倉庫の鍵",
+   "maps": [
+    "Lighthouse"
+   ],
+   "cats": [
+    "TOL",
+    "ELC"
+   ],
+   "note": "",
+   "verified": false
+  },
+  "conference-room-key": {
+   "en": "Conference room key",
+   "ja": "会議室の鍵",
+   "maps": [
+    "Lighthouse"
+   ],
+   "cats": [
+    "ELC",
+    "KEY"
+   ],
+   "note": "",
+   "verified": false
+  },
+  "merin-car-trunk-key": {
+   "en": "Merin car trunk key",
+   "ja": "Merin 車のトランクの鍵",
+   "maps": [
+    "Lighthouse"
+   ],
+   "cats": [
+    "VAL"
+   ],
+   "note": "",
+   "verified": false
+  },
+  "police-truck-cabin-key": {
+   "en": "Police truck cabin key",
+   "ja": "警察トラック 運転席の鍵",
+   "maps": [
+    "Lighthouse"
+   ],
+   "cats": [
+    "WPN",
+    "GER"
+   ],
+   "note": "",
+   "verified": false
+  },
+  "convenience-store-storage-room-key": {
+   "en": "Convenience store storage room key",
+   "ja": "コンビニ 倉庫の鍵",
+   "maps": [
+    "Lighthouse"
+   ],
+   "cats": [
+    "FOD",
+    "VAL"
+   ],
+   "note": "",
+   "verified": false
+  },
+  "usec-cottage-room-key": {
+   "en": "USEC cottage room key",
+   "ja": "USEC コテージ 部屋の鍵",
+   "maps": [
+    "Lighthouse"
+   ],
+   "cats": [
+    "VAL",
+    "FOD"
+   ],
+   "note": "",
+   "verified": false
+  },
+  "leons-hideout-key": {
+   "en": "Leon's hideout key",
+   "ja": "レオンの隠れ家の鍵",
+   "maps": [
+    "Lighthouse"
+   ],
+   "cats": [
+    "VAL"
+   ],
+   "note": "",
+   "verified": false
+  },
+  "abandoned-factory-marked-key": {
+   "en": "Abandoned factory marked key",
+   "ja": "廃工場のマークルームの鍵",
+   "maps": [
+    "Streets"
+   ],
+   "cats": [
+    "MRK",
+    "VAL",
+    "KEY"
+   ],
+   "note": "ストリートのマークルーム。最高額帯。",
+   "verified": true
+  },
+  "mysterious-room-marked-key": {
+   "en": "Mysterious room marked key",
+   "ja": "謎の部屋のマークルームの鍵",
+   "maps": [
+    "Streets"
+   ],
+   "cats": [
+    "MRK",
+    "VAL",
+    "KEY"
+   ],
+   "note": "ストリートのマークルーム。",
+   "verified": true
+  },
+  "chekannaya-15-apartment-key": {
+   "en": "Chekannaya 15 apartment key",
+   "ja": "チェカンナヤ15 アパートの鍵",
+   "maps": [
+    "Streets"
+   ],
+   "cats": [
+    "VAL",
+    "ELC"
+   ],
+   "note": "",
+   "verified": true
+  },
+  "concordia-apartment-64-key": {
+   "en": "Concordia apartment 64 key",
+   "ja": "コンコルディア 64号室の鍵",
+   "maps": [
+    "Streets"
+   ],
+   "cats": [
+    "VAL",
+    "ELC"
+   ],
+   "note": "",
+   "verified": false
+  },
+  "car-dealership-closed-section-key": {
+   "en": "Car dealership closed section key",
+   "ja": "カーディーラー 閉鎖区画の鍵",
+   "maps": [
+    "Streets"
+   ],
+   "cats": [
+    "TOL",
+    "VAL"
+   ],
+   "note": "",
+   "verified": true
+  },
+  "elektroniks-key": {
+   "en": "Elektronik's key",
+   "ja": "Elektronik の鍵",
+   "maps": [
+    "Streets"
+   ],
+   "cats": [
+    "ELC",
+    "VAL"
+   ],
+   "note": "",
+   "verified": false
+  },
+  "tarbank-cash-register-department-key": {
+   "en": "Tarbank cash register department key",
+   "ja": "Tarbank レジ区画の鍵",
+   "maps": [
+    "Streets"
+   ],
+   "cats": [
+    "VAL"
+   ],
+   "note": "現金束。",
+   "verified": true
+  },
+  "real-estate-agency-office-room-key": {
+   "en": "Real estate agency office room key",
+   "ja": "不動産事務所の鍵",
+   "maps": [
+    "Streets"
+   ],
+   "cats": [
+    "VAL",
+    "KEY"
+   ],
+   "note": "",
+   "verified": true
+  },
+  "relaxation-room-key": {
+   "en": "Relaxation room key",
+   "ja": "くつろぎの部屋の鍵",
+   "maps": [
+    "Streets"
+   ],
+   "cats": [
+    "VAL",
+    "KEY"
+   ],
+   "note": "",
+   "verified": true
+  },
+  "concordia-apartment-64-office-room-key": {
+   "en": "Concordia apartment 64 office room key",
+   "ja": "コンコルディア 64号室 書斎の鍵",
+   "maps": [
+    "Streets"
+   ],
+   "cats": [
+    "VAL",
+    "ELC"
+   ],
+   "note": "",
+   "verified": false
+  },
+  "terragroup-meeting-room-key": {
+   "en": "TerraGroup meeting room key",
+   "ja": "TerraGroup 会議室の鍵",
+   "maps": [
+    "Streets"
+   ],
+   "cats": [
+    "KEY",
+    "ELC"
+   ],
+   "note": "",
+   "verified": true
+  },
+  "cardinal-apartment-key": {
+   "en": "Cardinal apartment key",
+   "ja": "Cardinal アパートの鍵",
+   "maps": [
+    "Streets"
+   ],
+   "cats": [
+    "VAL"
+   ],
+   "note": "",
+   "verified": false
+  },
+  "pinewood-hotel-room-215-key": {
+   "en": "Pinewood hotel room 215 key",
+   "ja": "パインウッド 215号室の鍵",
+   "maps": [
+    "Streets"
+   ],
+   "cats": [
+    "VAL",
+    "ELC"
+   ],
+   "note": "",
+   "verified": true
+  },
+  "terragroup-security-armory-key": {
+   "en": "TerraGroup security armory key",
+   "ja": "TerraGroup 警備武器庫の鍵",
+   "maps": [
+    "Streets"
+   ],
+   "cats": [
+    "WPN",
+    "GER"
+   ],
+   "note": "武器・防具。",
+   "verified": true
+  },
+  "iron-gate-key": {
+   "en": "Iron gate key",
+   "ja": "鉄門の鍵",
+   "maps": [
+    "Streets"
+   ],
+   "cats": [
+    "EXT"
+   ],
+   "note": "通路解除。",
+   "verified": true
+  },
+  "beluga-restaurant-director-key": {
+   "en": "Beluga restaurant director key",
+   "ja": "Beluga レストラン支配人室の鍵",
+   "maps": [
+    "Streets"
+   ],
+   "cats": [
+    "VAL",
+    "FOD"
+   ],
+   "note": "",
+   "verified": true
+  },
+  "primorsky-48-apartment-key": {
+   "en": "Primorsky 48 apartment key",
+   "ja": "プリモルスキー48 アパートの鍵",
+   "maps": [
+    "Streets"
+   ],
+   "cats": [
+    "VAL"
+   ],
+   "note": "",
+   "verified": false
+  },
+  "concordia-apartment-63-room-key": {
+   "en": "Concordia apartment 63 room key",
+   "ja": "コンコルディア 63号室の鍵",
+   "maps": [
+    "Streets"
+   ],
+   "cats": [
+    "VAL"
+   ],
+   "note": "",
+   "verified": false
+  },
+  "aspect-company-office-key": {
+   "en": "Aspect company office key",
+   "ja": "Aspect社 事務所の鍵",
+   "maps": [
+    "Streets"
+   ],
+   "cats": [
+    "ELC",
+    "KEY"
+   ],
+   "note": "",
+   "verified": false
+  },
+  "concordia-apartment-34-room-key": {
+   "en": "Concordia apartment 34 room key",
+   "ja": "コンコルディア 34号室の鍵",
+   "maps": [
+    "Streets"
+   ],
+   "cats": [
+    "VAL"
+   ],
+   "note": "",
+   "verified": false
+  },
+  "terragroup-corporate-apartment-key": {
+   "en": "TerraGroup corporate apartment key",
+   "ja": "TerraGroup 社宅の鍵",
+   "maps": [
+    "Streets"
+   ],
+   "cats": [
+    "VAL",
+    "ELC"
+   ],
+   "note": "",
+   "verified": false
+  },
+  "supply-department-directors-office-key": {
+   "en": "Supply department director's office key",
+   "ja": "供給部長室の鍵",
+   "maps": [
+    "Streets"
+   ],
+   "cats": [
+    "VAL",
+    "KEY"
+   ],
+   "note": "",
+   "verified": false
+  },
+  "financial-institution-small-office-key": {
+   "en": "Financial institution small office key",
+   "ja": "金融機関 小事務室の鍵",
+   "maps": [
+    "Streets"
+   ],
+   "cats": [
+    "VAL"
+   ],
+   "note": "",
+   "verified": false
+  },
+  "car-dealership-directors-office-room-key": {
+   "en": "Car dealership director's office room key",
+   "ja": "カーディーラー 支配人室の鍵",
+   "maps": [
+    "Streets"
+   ],
+   "cats": [
+    "VAL",
+    "ELC"
+   ],
+   "note": "",
+   "verified": true
+  },
+  "zmeisky-5-apartment-20-key": {
+   "en": "Zmeisky 5 apartment 20 key",
+   "ja": "ズメイスキー5 20号室の鍵",
+   "maps": [
+    "Streets"
+   ],
+   "cats": [
+    "VAL"
+   ],
+   "note": "",
+   "verified": false
+  },
+  "concordia-apartment-8-home-cinema-key": {
+   "en": "Concordia apartment 8 home cinema key",
+   "ja": "コンコルディア 8号室 シアタールームの鍵",
+   "maps": [
+    "Streets"
+   ],
+   "cats": [
+    "ELC",
+    "VAL"
+   ],
+   "note": "",
+   "verified": false
+  },
+  "cult-victims-apartment-key": {
+   "en": "Cult victim's apartment key",
+   "ja": "カルト犠牲者のアパートの鍵",
+   "maps": [
+    "Streets"
+   ],
+   "cats": [
+    "VAL",
+    "KEY"
+   ],
+   "note": "",
+   "verified": false
+  },
+  "financial-institution-office-key": {
+   "en": "Financial institution office key",
+   "ja": "金融機関 事務所の鍵",
+   "maps": [
+    "Streets"
+   ],
+   "cats": [
+    "VAL"
+   ],
+   "note": "",
+   "verified": false
+  },
+  "pinewood-hotel-room-206-key": {
+   "en": "Pinewood hotel room 206 key",
+   "ja": "パインウッド 206号室の鍵",
+   "maps": [
+    "Streets"
+   ],
+   "cats": [
+    "VAL"
+   ],
+   "note": "",
+   "verified": false
+  },
+  "x-ray-room-key": {
+   "en": "X-ray room key",
+   "ja": "レントゲン室の鍵",
+   "maps": [
+    "Streets"
+   ],
+   "cats": [
+    "MED"
+   ],
+   "note": "医療品。",
+   "verified": true
+  },
+  "zmeisky-3-apartment-key": {
+   "en": "Zmeisky 3 apartment key",
+   "ja": "ズメイスキー3 アパートの鍵",
+   "maps": [
+    "Streets"
+   ],
+   "cats": [
+    "VAL"
+   ],
+   "note": "",
+   "verified": false
+  },
+  "concordia-apartment-8-room-key": {
+   "en": "Concordia apartment 8 room key",
+   "ja": "コンコルディア 8号室の鍵",
+   "maps": [
+    "Streets"
+   ],
+   "cats": [
+    "VAL"
+   ],
+   "note": "",
+   "verified": false
+  },
+  "concordia-security-room-key": {
+   "en": "Concordia security room key",
+   "ja": "コンコルディア 警備室の鍵",
+   "maps": [
+    "Streets"
+   ],
+   "cats": [
+    "ELC",
+    "KEY"
+   ],
+   "note": "",
+   "verified": true
+  },
+  "cargo-container-mesh-door-key": {
+   "en": "Cargo container mesh door key",
+   "ja": "貨物コンテナ 網扉の鍵",
+   "maps": [
+    "Streets"
+   ],
+   "cats": [
+    "TOL",
+    "WPN"
+   ],
+   "note": "",
+   "verified": false
+  },
+  "archive-room-key": {
+   "en": "Archive room key",
+   "ja": "資料室の鍵",
+   "maps": [
+    "Streets"
+   ],
+   "cats": [
+    "KEY",
+    "ELC"
+   ],
+   "note": "",
+   "verified": false
+  },
+  "zmeisky-3-apartment-8-key": {
+   "en": "Zmeisky 3 apartment 8 key",
+   "ja": "ズメイスキー3 8号室の鍵",
+   "maps": [
+    "Streets"
+   ],
+   "cats": [
+    "VAL"
+   ],
+   "note": "",
+   "verified": false
+  },
+  "rus-post-car-key": {
+   "en": "Rus Post car key",
+   "ja": "Rus Post 車の鍵",
+   "maps": [
+    "Streets"
+   ],
+   "cats": [
+    "VAL"
+   ],
+   "note": "",
+   "verified": false
+  },
+  "mvd-academy-entrance-hall-guard-room-key": {
+   "en": "MVD academy entrance hall guard room key",
+   "ja": "内務省アカデミー 警備室の鍵",
+   "maps": [
+    "Streets"
+   ],
+   "cats": [
+    "WPN",
+    "GER"
+   ],
+   "note": "",
+   "verified": false
+  },
+  "store-managers-key": {
+   "en": "Store manager's key",
+   "ja": "店長の鍵",
+   "maps": [
+    "Streets"
+   ],
+   "cats": [
+    "VAL",
+    "FOD"
+   ],
+   "note": "",
+   "verified": false
+  },
+  "negotiation-room-key": {
+   "en": "\"Negotiation\" room key",
+   "ja": "「交渉室」の鍵",
+   "maps": [
+    "Streets"
+   ],
+   "cats": [
+    "KEY",
+    "VAL"
+   ],
+   "note": "",
+   "verified": true
+  },
+  "construction-site-bunkhouse-key": {
+   "en": "Construction site bunkhouse key",
+   "ja": "工事現場 宿舎の鍵",
+   "maps": [
+    "Streets"
+   ],
+   "cats": [
+    "TOL",
+    "FOD"
+   ],
+   "note": "",
+   "verified": false
+  },
+  "stair-landing-key": {
+   "en": "Stair landing key",
+   "ja": "階段踊り場の鍵",
+   "maps": [
+    "Streets"
+   ],
+   "cats": [
+    "EXT"
+   ],
+   "note": "通路解除。",
+   "verified": false
+  },
+  "pe-teachers-office-key": {
+   "en": "PE teacher's office key",
+   "ja": "体育教官室の鍵",
+   "maps": [
+    "Streets"
+   ],
+   "cats": [
+    "TOL",
+    "GER"
+   ],
+   "note": "",
+   "verified": false
+  },
+  "primorsky-ave-apartment-key": {
+   "en": "Primorsky Ave apartment key",
+   "ja": "プリモルスキー通り アパートの鍵",
+   "maps": [
+    "Streets"
+   ],
+   "cats": [
+    "VAL"
+   ],
+   "note": "",
+   "verified": false
+  },
+  "backup-hideout-key": {
+   "en": "Backup hideout key",
+   "ja": "予備の隠れ家の鍵",
+   "maps": [
+    "Streets"
+   ],
+   "cats": [
+    "KEY"
+   ],
+   "note": "",
+   "verified": true
+  },
+  "primorsky-46-48-skybridge-key": {
+   "en": "Primorsky 46-48 skybridge key",
+   "ja": "プリモルスキー46-48 連絡橋の鍵",
+   "maps": [
+    "Streets"
+   ],
+   "cats": [
+    "EXT",
+    "KEY"
+   ],
+   "note": "3タスクで要求。",
+   "verified": true
+  },
+  "rusted-bloody-key": {
+   "en": "Rusted bloody key",
+   "ja": "錆びた血まみれの鍵",
+   "maps": [
+    "Streets"
+   ],
+   "cats": [
+    "KEY"
+   ],
+   "note": "",
+   "verified": true
+  },
+  "reprogrammed-keycard-for-a-p-s-apartment-lock-green": {
+   "en": "Reprogrammed keycard for A.P.'s apartment lock (Green)",
+   "ja": "A.P.のアパート用 再プログラムキーカード（緑）",
+   "maps": [
+    "Streets"
+   ],
+   "cats": [
+    "KEY"
+   ],
+   "note": "",
+   "verified": false
+  },
+  "terragroup-science-office-key": {
+   "en": "TerraGroup science office key",
+   "ja": "TerraGroup 研究事務所の鍵",
+   "maps": [
+    "Ground Zero"
+   ],
+   "cats": [
+    "ELC",
+    "KEY"
+   ],
+   "note": "",
+   "verified": false
+  },
+  "underground-parking-utility-room-key": {
+   "en": "Underground parking utility room key",
+   "ja": "地下駐車場 設備室の鍵",
+   "maps": [
+    "Ground Zero"
+   ],
+   "cats": [
+    "TOL",
+    "EXT"
+   ],
+   "note": "",
+   "verified": false
+  },
+  "unity-credit-bank-cash-register-key": {
+   "en": "Unity Credit Bank cash register key",
+   "ja": "Unity Credit Bank レジの鍵",
+   "maps": [
+    "Ground Zero"
+   ],
+   "cats": [
+    "VAL"
+   ],
+   "note": "現金。",
+   "verified": true
+  },
+  "terragroup-labs-keycard-green": {
+   "en": "TerraGroup Labs keycard (Green)",
+   "ja": "ラボキーカード（緑）",
+   "maps": [
+    "The Lab"
+   ],
+   "cats": [
+    "MED",
+    "VAL"
+   ],
+   "note": "医療区画。高額医療品。",
+   "verified": true
+  },
+  "terragroup-labs-keycard-red": {
+   "en": "TerraGroup Labs keycard (Red)",
+   "ja": "ラボキーカード（赤）",
+   "maps": [
+    "The Lab"
+   ],
+   "cats": [
+    "WPN",
+    "GER",
+    "VAL"
+   ],
+   "note": "武器テストエリア。最高峰の武器・防具沸き。",
+   "verified": true
+  },
+  "terragroup-labs-keycard-black": {
+   "en": "TerraGroup Labs keycard (Black)",
+   "ja": "ラボキーカード（黒）",
+   "maps": [
+    "The Lab"
+   ],
+   "cats": [
+    "VAL",
+    "KEY"
+   ],
+   "note": "管理区画。高額バーター品。",
+   "verified": true
+  },
+  "terragroup-labs-keycard-blue": {
+   "en": "TerraGroup Labs keycard (Blue)",
+   "ja": "ラボキーカード（青）",
+   "maps": [
+    "The Lab"
+   ],
+   "cats": [
+    "ELC",
+    "MED"
+   ],
+   "note": "",
+   "verified": true
+  },
+  "terragroup-labs-keycard-violet": {
+   "en": "TerraGroup Labs keycard (Violet)",
+   "ja": "ラボキーカード（紫）",
+   "maps": [
+    "The Lab"
+   ],
+   "cats": [
+    "VAL",
+    "ELC"
+   ],
+   "note": "",
+   "verified": true
+  },
+  "terragroup-labs-arsenal-storage-room-key": {
+   "en": "TerraGroup Labs arsenal storage room key",
+   "ja": "ラボ 武器庫の鍵",
+   "maps": [
+    "The Lab"
+   ],
+   "cats": [
+    "WPN"
+   ],
+   "note": "武器箱・弾薬箱。",
+   "verified": true
+  },
+  "terragroup-labs-residential-unit-keycard": {
+   "en": "TerraGroup Labs residential unit keycard",
+   "ja": "ラボ 居住区キーカード",
+   "maps": [
+    "The Lab"
+   ],
+   "cats": [
+    "VAL",
+    "FOD"
+   ],
+   "note": "",
+   "verified": false
+  },
+  "terragroup-labs-keycard-yellow": {
+   "en": "TerraGroup Labs keycard (Yellow)",
+   "ja": "ラボキーカード（黄）",
+   "maps": [
+    "The Lab"
+   ],
+   "cats": [
+    "ELC"
+   ],
+   "note": "サーバー区画。電子機器。",
+   "verified": true
+  },
+  "keycard-with-a-blue-marking": {
+   "en": "Keycard with a blue marking",
+   "ja": "青い印のキーカード",
+   "maps": [
+    "The Lab"
+   ],
+   "cats": [
+    "KEY",
+    "ELC"
+   ],
+   "note": "",
+   "verified": true
+  },
+  "terragroup-labs-access-keycard": {
+   "en": "TerraGroup Labs access keycard",
+   "ja": "ラボ アクセスキーカード",
+   "maps": [
+    "The Lab"
+   ],
+   "cats": [
+    "KEY"
+   ],
+   "note": "ラボ入場そのものに必要。消耗する。",
+   "verified": true
+  },
+  "terragroup-labs-weapon-testing-area-key": {
+   "en": "TerraGroup Labs weapon testing area key",
+   "ja": "ラボ 武器テストエリアの鍵",
+   "maps": [
+    "The Lab"
+   ],
+   "cats": [
+    "WPN"
+   ],
+   "note": "",
+   "verified": true
+  },
+  "object-11sr-keycard": {
+   "en": "Object #11SR keycard",
+   "ja": "オブジェクト #11SR キーカード",
+   "maps": [
+    "The Lab"
+   ],
+   "cats": [
+    "EXT",
+    "KEY"
+   ],
+   "note": "脱出解除。",
+   "verified": true
+  },
+  "terragroup-labs-managers-office-room-key": {
+   "en": "TerraGroup Labs manager's office room key",
+   "ja": "ラボ 管理者室の鍵",
+   "maps": [
+    "The Lab"
+   ],
+   "cats": [
+    "VAL",
+    "KEY"
+   ],
+   "note": "セーフ・書類。",
+   "verified": true
+  },
+  "object-21ws-keycard": {
+   "en": "Object #21WS keycard",
+   "ja": "オブジェクト #21WS キーカード",
+   "maps": [
+    "The Lab"
+   ],
+   "cats": [
+    "EXT",
+    "KEY"
+   ],
+   "note": "脱出解除。",
+   "verified": true
+  },
+  "labrys-access-keycard": {
+   "en": "Labrys access keycard",
+   "ja": "Labrys アクセスキーカード",
+   "maps": [
+    "Labyrinth"
+   ],
+   "cats": [
+    "KEY"
+   ],
+   "note": "ラビリンス入場用。",
+   "verified": true
+  },
+  "ariadne-symbol-key": {
+   "en": "Ariadne symbol key",
+   "ja": "アリアドネの印の鍵",
+   "maps": [
+    "Labyrinth"
+   ],
+   "cats": [
+    "EXT",
+    "KEY"
+   ],
+   "note": "「アリアドネの糸」脱出を有効化。",
+   "verified": true
+  },
+  "labyrinth-key": {
+   "en": "Labyrinth key",
+   "ja": "迷宮の鍵",
+   "maps": [
+    "Labyrinth"
+   ],
+   "cats": [
+    "KEY"
+   ],
+   "note": "",
+   "verified": false
+  },
+  "observation-room-key": {
+   "en": "Observation room key",
+   "ja": "観測室の鍵",
+   "maps": [
+    "Labyrinth"
+   ],
+   "cats": [
+    "ELC",
+    "KEY"
+   ],
+   "note": "",
+   "verified": false
+  },
+  "corpse-room-key": {
+   "en": "Corpse room key",
+   "ja": "死体安置室の鍵",
+   "maps": [
+    "Labyrinth"
+   ],
+   "cats": [
+    "KEY",
+    "VAL"
+   ],
+   "note": "",
+   "verified": true
+  },
+  "key-01": {
+   "en": "Key 01",
+   "ja": "鍵 01",
+   "maps": [
+    "Labyrinth"
+   ],
+   "cats": [
+    "KEY"
+   ],
+   "note": "",
+   "verified": false
+  },
+  "key-02": {
+   "en": "Key 02",
+   "ja": "鍵 02",
+   "maps": [
+    "Labyrinth"
+   ],
+   "cats": [
+    "KEY"
+   ],
+   "note": "",
+   "verified": false
+  },
+  "key-03": {
+   "en": "Key 03",
+   "ja": "鍵 03",
+   "maps": [
+    "Labyrinth"
+   ],
+   "cats": [
+    "KEY"
+   ],
+   "note": "",
+   "verified": false
+  },
+  "key-04": {
+   "en": "Key 04",
+   "ja": "鍵 04",
+   "maps": [
+    "Labyrinth"
+   ],
+   "cats": [
+    "KEY"
+   ],
+   "note": "",
+   "verified": false
+  },
+  "compartment-c-3-keycard": {
+   "en": "Compartment C-3 keycard",
+   "ja": "区画 C-3 キーカード",
+   "maps": [
+    "Icebreaker"
+   ],
+   "cats": [
+    "VAL",
+    "KEY"
+   ],
+   "note": "ゲーム内最高額の鍵。",
+   "verified": true
+  },
+  "compartment-c-1-keycard": {
+   "en": "Compartment C-1 keycard",
+   "ja": "区画 C-1 キーカード",
+   "maps": [
+    "Icebreaker"
+   ],
+   "cats": [
+    "VAL",
+    "KEY"
+   ],
+   "note": "",
+   "verified": false
+  },
+  "boreas-engine-room-keycard": {
+   "en": "Boreas engine room keycard",
+   "ja": "Boreas 機関室キーカード",
+   "maps": [
+    "Icebreaker"
+   ],
+   "cats": [
+    "TOL",
+    "ELC"
+   ],
+   "note": "",
+   "verified": false
+  },
+  "boreas-crew-quarters-keycard": {
+   "en": "Boreas crew quarters keycard",
+   "ja": "Boreas 乗員区画キーカード",
+   "maps": [
+    "Icebreaker"
+   ],
+   "cats": [
+    "VAL",
+    "FOD"
+   ],
+   "note": "",
+   "verified": false
+  },
+  "black-division-keycard": {
+   "en": "Black Division keycard",
+   "ja": "Black Division キーカード",
+   "maps": [
+    "Terminal"
+   ],
+   "cats": [
+    "KEY",
+    "WPN"
+   ],
+   "note": "ターミナルの制限区画。",
+   "verified": false
+  },
+  "pier-door-key": {
+   "en": "Pier door key",
+   "ja": "桟橋の扉の鍵",
+   "maps": [
+    "Terminal"
+   ],
+   "cats": [
+    "EXT"
+   ],
+   "note": "",
+   "verified": false
+  },
+  "blank-rfid-keycard": {
+   "en": "Blank RFID keycard",
+   "ja": "空白のRFIDキーカード",
+   "maps": [
+    "Other"
+   ],
+   "cats": [
+    "KEY"
+   ],
+   "note": "書き換え用の素体。",
+   "verified": true
+  },
+  "weapon-safe-key": {
+   "en": "Weapon safe key",
+   "ja": "武器金庫の鍵",
+   "maps": [
+    "Other"
+   ],
+   "cats": [
+    "WPN",
+    "VAL"
+   ],
+   "note": "",
+   "verified": false
+  },
+  "rb-pp-key": {
+   "en": "RB-PP key",
+   "ja": "RB-PP の鍵",
+   "maps": [
+    "Other"
+   ],
+   "cats": [
+    "TOL",
+    "VAL"
+   ],
+   "note": "リザーブ系だが所属が未分類。",
+   "verified": false
+  },
+  "missam-forklift-key": {
+   "en": "Missam forklift key",
+   "ja": "Missam フォークリフトの鍵",
+   "maps": [
+    "Other"
+   ],
+   "cats": [
+    "VAL"
+   ],
+   "note": "",
+   "verified": false
+  },
+  "folding-car-key": {
+   "en": "Folding car key",
+   "ja": "折りたたみ式 車の鍵",
+   "maps": [
+    "Other"
+   ],
+   "cats": [
+    "VAL"
+   ],
+   "note": "",
+   "verified": false
+  },
+  "store-safe-key": {
+   "en": "Store safe key",
+   "ja": "店舗 金庫の鍵",
+   "maps": [
+    "Other"
+   ],
+   "cats": [
+    "VAL"
+   ],
+   "note": "",
+   "verified": false
+  },
+  "vaz-car-key": {
+   "en": "VAZ car key",
+   "ja": "VAZ 車の鍵",
+   "maps": [
+    "Other"
+   ],
+   "cats": [
+    "VAL"
+   ],
+   "note": "",
+   "verified": false
+  },
+  "pumping-station-front-door-key": {
+   "en": "Pumping station front door key",
+   "ja": "ポンプ場 表扉の鍵",
+   "maps": [
+    "Other"
+   ],
+   "cats": [
+    "EXT",
+    "TOL"
+   ],
+   "note": "",
+   "verified": false
+  },
+  "pumping-station-back-door-key": {
+   "en": "Pumping station back door key",
+   "ja": "ポンプ場 裏扉の鍵",
+   "maps": [
+    "Other"
+   ],
+   "cats": [
+    "EXT",
+    "TOL"
+   ],
+   "note": "",
+   "verified": false
+  },
+  "cold-storage-room-key": {
+   "en": "Cold storage room key",
+   "ja": "冷蔵倉庫の鍵",
+   "maps": [
+    "Other"
+   ],
+   "cats": [
+    "FOD",
+    "VAL"
+   ],
+   "note": "",
+   "verified": false
+  },
+  "apartment-locked-room-safe-key": {
+   "en": "Apartment locked room safe key",
+   "ja": "アパート施錠部屋 金庫の鍵",
+   "maps": [
+    "Other"
+   ],
+   "cats": [
+    "VAL"
+   ],
+   "note": "",
+   "verified": false
+  },
+  "housing-office-second-floor-safe-key": {
+   "en": "Housing office second floor safe key",
+   "ja": "住宅事務所 2F 金庫の鍵",
+   "maps": [
+    "Other"
+   ],
+   "cats": [
+    "VAL"
+   ],
+   "note": "",
+   "verified": false
+  },
+  "housing-office-first-floor-safe-key": {
+   "en": "Housing office first floor safe key",
+   "ja": "住宅事務所 1F 金庫の鍵",
+   "maps": [
+    "Other"
+   ],
+   "cats": [
+    "VAL"
+   ],
+   "note": "",
+   "verified": false
+  },
+  "horse-restaurant-toilet-key": {
+   "en": "Horse restaurant toilet key",
+   "ja": "Horse レストラン トイレの鍵",
+   "maps": [
+    "Other"
+   ],
+   "cats": [
+    "VAL",
+    "FOD"
+   ],
+   "note": "",
+   "verified": false
+  },
+  "unity-credit-bank-archive-room-key": {
+   "en": "Unity Credit Bank archive room key",
+   "ja": "Unity Credit Bank 資料室の鍵",
+   "maps": [
+    "Other"
+   ],
+   "cats": [
+    "KEY",
+    "VAL"
+   ],
+   "note": "",
+   "verified": false
+  },
+  "valve-handwheel": {
+   "en": "Valve handwheel",
+   "ja": "バルブハンドル",
+   "maps": [
+    "Other"
+   ],
+   "cats": [
+    "EXT"
+   ],
+   "note": "扉・通路の開放用。",
+   "verified": true
+  },
+  "torture-room-key": {
+   "en": "Torture room key",
+   "ja": "拷問部屋の鍵",
+   "maps": [
+    "Other"
+   ],
+   "cats": [
+    "KEY"
+   ],
+   "note": "",
+   "verified": false
+  },
+  "bbq-s43-gas-torch": {
+   "en": "BBQ-S43 gas torch",
+   "ja": "BBQ-S43 ガストーチ",
+   "maps": [
+    "Other"
+   ],
+   "cats": [
+    "EXT",
+    "TOL"
+   ],
+   "note": "扉の切断に使用。",
+   "verified": true
+  },
+  "kruglovs-rfid-keycard": {
+   "en": "Kruglov's RFID keycard",
+   "ja": "クルグロフのRFIDキーカード",
+   "maps": [
+    "Other"
+   ],
+   "cats": [
+    "KEY"
+   ],
+   "note": "",
+   "verified": false
+  },
+  "activated-kruglovs-rfid-keycard": {
+   "en": "Activated Kruglov's RFID keycard",
+   "ja": "起動済み クルグロフのRFIDキーカード",
+   "maps": [
+    "Other"
+   ],
+   "cats": [
+    "KEY"
+   ],
+   "note": "",
+   "verified": false
+  },
+  "keycard-from-kruglovs-safe": {
+   "en": "Keycard from Kruglov's safe",
+   "ja": "クルグロフの金庫のキーカード",
+   "maps": [
+    "Other"
+   ],
+   "cats": [
+    "KEY"
+   ],
+   "note": "",
+   "verified": false
+  },
+  "reprogrammed-rfid-keycard-with-mr-kermans-hash-codes": {
+   "en": "Reprogrammed RFID keycard with Mr. Kerman's hash codes",
+   "ja": "再プログラムRFIDキーカード（Kerman ハッシュ）",
+   "maps": [
+    "Other"
+   ],
+   "cats": [
+    "KEY"
+   ],
+   "note": "",
+   "verified": false
+  },
+  "reprogrammed-rfid-keycard-with-prapors-hash-codes": {
+   "en": "Reprogrammed RFID keycard with Prapor's hash codes",
+   "ja": "再プログラムRFIDキーカード（Prapor ハッシュ）",
+   "maps": [
+    "Other"
+   ],
+   "cats": [
+    "KEY"
+   ],
+   "note": "",
+   "verified": false
+  },
+  "rfid-keycard-with-unknown-name": {
+   "en": "RFID keycard with unknown name",
+   "ja": "名前不明のRFIDキーカード",
+   "maps": [
+    "Other"
+   ],
+   "cats": [
+    "KEY"
+   ],
+   "note": "",
+   "verified": false
+  },
+  "reprogrammed-keycard-for-a-p-s-apartment-lock-red": {
+   "en": "Reprogrammed keycard for A.P.'s apartment lock (Red)",
+   "ja": "A.P.のアパート用 再プログラムキーカード（赤）",
+   "maps": [
+    "Other"
+   ],
+   "cats": [
+    "KEY"
+   ],
+   "note": "",
+   "verified": false
+  },
+  "reprogrammed-keycard-for-a-p-s-apartment-lock-blue": {
+   "en": "Reprogrammed keycard for A.P.'s apartment lock (Blue)",
+   "ja": "A.P.のアパート用 再プログラムキーカード（青）",
+   "maps": [
+    "Other"
+   ],
+   "cats": [
+    "KEY"
+   ],
+   "note": "",
+   "verified": false
+  },
+  "admins-key": {
+   "en": "Admin's key",
+   "ja": "管理者の鍵",
+   "maps": [
+    "Other"
+   ],
+   "cats": [
+    "KEY"
+   ],
+   "note": "",
+   "verified": false
+  }
+ }
+}
